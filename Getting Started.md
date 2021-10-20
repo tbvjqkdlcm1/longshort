@@ -12,3 +12,12 @@
 $ cd SSrang/frontend && `yarn start` or `npm start`
 </code>
 </pre>
+
+### API 서버
+
+<pre>
+<code>
+# Development
+$ cd SSrang/frontend && `yarn start` or `npm start`
+</code>
+</pre>
