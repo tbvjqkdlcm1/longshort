@@ -4,5 +4,5 @@ Hello, I'm a <img src="https://img.shields.io/badge/Backend-3DDC84?style=flat-sq
 * <img src="https://img.shields.io/badge/Flask-2C5BB4?style=flat-square&logo=Flask&logoColor=blue"/>
 * <img src="https://img.shields.io/badge/React-33FFFF?style=flat-square&logo=React&logoColor=black"/>
 * <img src="https://img.shields.io/badge/Java-006272?style=flat-square&logo=Java&logoColor=white"/>
-* <img src="https://img.shields.io/badge/DB-006272?style=flat-square&logo=DB&logoColor=white"/>
+* <img src="https://img.shields.io/badge/MySQL-006272?style=flat-square&logo=MySQL&logoColor=white"/>
 * 
