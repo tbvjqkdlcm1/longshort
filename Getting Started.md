@@ -8,6 +8,7 @@
 
 <pre>
 <code>
-
+# Development
+$ cd SSrang/frontend && `yarn start` or `npm start`
 </code>
 </pre>
