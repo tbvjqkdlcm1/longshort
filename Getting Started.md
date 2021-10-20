@@ -18,6 +18,6 @@ $ cd SSrang/frontend && `yarn start` or `npm start`
 <pre>
 <code>
 # Development
-$ cd SSrang/frontend && `yarn start` or `npm start`
+$ cd SSrang/server/app.py && `flask run app.py`
 </code>
 </pre>
