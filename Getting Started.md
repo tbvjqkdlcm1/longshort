@@ -2,3 +2,5 @@
 
 ### Prerequisites
 `secret.py` `gitignore` 해놨으니 `db`운용시 `server`디렉토리 내에 `secret.py`생성 하세요.
+`secret.py` 내에 `db_pw` = `'Database-password'`
+                `secret_key` = `'Server-Secret-Key'`
