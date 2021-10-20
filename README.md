@@ -2,4 +2,4 @@ Hello, I'm a <img src="https://img.shields.io/badge/Backend-3DDC84?style=flat-sq
 
 ## Skills
 * <img src="https://img.shields.io/badge/Flask-FF0066?style=flat-square&logo=Flask&logoColor=blue"/>
-* d
+* <img src="https://img.shields.io/badge/React-33FFFF?style=flat-square&logo=React&logoColor=black"/>
