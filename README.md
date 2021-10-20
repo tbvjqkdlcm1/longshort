@@ -1,4 +1,6 @@
 Hello, I'm a <img src="https://img.shields.io/badge/Backend-3DDC84?style=flat-square&logo=Backend&logoColor=white" size="10px"/> developer mainly using python!!
+I enjoy talking and laughing with people.
+I want to become a developer that constantly develops!
 
 ## Skills
 * <img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=Flask&logoColor=white"/>
