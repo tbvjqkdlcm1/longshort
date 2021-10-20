@@ -3,3 +3,5 @@ Hello, I'm a <img src="https://img.shields.io/badge/Backend-3DDC84?style=flat-sq
 ## Skills
 * <img src="https://img.shields.io/badge/Flask-FF0066?style=flat-square&logo=Flask&logoColor=blue"/>
 * <img src="https://img.shields.io/badge/React-33FFFF?style=flat-square&logo=React&logoColor=black"/>
+* <img src="https://img.shields.io/badge/Java-006272?style=flat-square&logo=Java&logoColor=white"/>
+* d
