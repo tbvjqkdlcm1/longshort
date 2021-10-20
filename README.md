@@ -6,3 +6,7 @@ Hello, I'm a <img src="https://img.shields.io/badge/Backend-3DDC84?style=flat-sq
 * <img src="https://img.shields.io/badge/Java-006272?style=flat-square&logo=Java&logoColor=white"/>
 * <img src="https://img.shields.io/badge/MySQL-F46D01?style=flat-square&logo=MySQL&logoColor=white"/>
 * <img src="https://img.shields.io/badge/Azure-FF5A5F?style=flat-square&logo=Azure&logoColor=white"/>
+
+## Tools
+* <img src="https://img.shields.io/badge/Anaconda-44A833?style=flat-square&logo=Anaconda&logoColor=white"/>
+* 
