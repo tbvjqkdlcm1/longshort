@@ -17,7 +17,7 @@
 
 <pre>
 <code>
-🔥 server🔥
+🔥 server 🔥
 ├──apis
 │ └─Controller (컨트롤러)
 │ │ ├─analysisController.py (분석 컨트롤러)
