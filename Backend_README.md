@@ -12,7 +12,7 @@
 │ └─dto (data transfer object / 데이터 교환)
 │   ├─requestDto.py (요청 전달)
 │   └─responseDto.py (응답 전달)
-├──domain (모델)
+├──domain (db / 모델)
 │ ├─dao (data access object / 데이터 접근)
 │ │ ├─articleDao.py (기사 접근)
 │ │ ├─exampleDao.py (문제 접근)
