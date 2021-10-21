@@ -9,4 +9,4 @@ I want to become a developer that constantly develops!
 * <img src="https://img.shields.io/badge/Anaconda-44A833?style=flat-square&logo=Anaconda&logoColor=white"/>   <img src="https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=Postman&logoColor=white"/>   <img src="https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=Jupyter&logoColor=white"/>   <img src="https://img.shields.io/badge/Google Colab-F9AB00?style=flat-square&logo=Google Colab&logoColor=white"/>
 
 ## Experience
-* <a href="https://42seoul.kr/seoul42/contents/view?contentsNo=13&level=2&menuNo=28&gclid=CjwKCAjwn8SLBhAyEiwAHNTJba42xAEnDjGtTgKJwlm8xwFLxaZRebc9GrbXR41PAyw5pWvbdVZCyhoCO_gQAvD_BwE" target="_blank"><img src="https://img.shields.io/badge/42-000000?style=flat-square&logo=42&logoColor=white"/></a>
+* <a href="https://42seoul.kr/seoul42/contents/view?contentsNo=13&level=2&menuNo=28&gclid=CjwKCAjwn8SLBhAyEiwAHNTJba42xAEnDjGtTgKJwlm8xwFLxaZRebc9GrbXR41PAyw5pWvbdVZCyhoCO_gQAvD_BwE" target="_blank"><img src="https://img.shields.io/badge/42Seoul-000000?style=flat-square&logo=42&logoColor=white"/></a>
