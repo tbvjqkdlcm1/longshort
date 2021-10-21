@@ -5,27 +5,39 @@
 <pre>
 <code>
 🔥 server🔥
-├── apis
-│ ├─config (db설정, dotenv 등)
-│ ├─loaders (설정 불러오기)
-│ ├─middlewares (미들웨어)
-│ ├─routes (라우트)
-│ ├─controllers (컨트롤러 / controller)
-│ ├─services (데이터 가공 / service)
-│ ├─repositories (쿼리문 / dao)
-│ ├─models (모델 / dto)
-│ ├─validation (req.body query parameter 값 검증)
-│ ├─types (ts 공통 타입, 인터페이스)
-│ ├─utils (공통되는 작은 함수)
-│ │ └─error (에러 처리)
-│ └─app.ts
-├── domain
-│ ├─loaders
-│ ├─loaders
-│ └─loaders
-└── service
-  ├─loaders
-  ├─loaders
-  └─loaders
+├──apis
+│ └─Controller (컨트롤러)
+│ │ ├─analysisController.py (분석 컨트롤러 블루프린트)
+│ │ └─dataAccessController.py (데이터접근 컨트롤러 블루프린트)
+│ └─dto (data transfer object / 데이터 교환)
+│   ├─requestDto.py (요청 전달)
+│   └─responseDto.py (응답 전달)
+├──domain (모델)
+│ ├─dao (data access object / 데이터 접근)
+│ │ ├─articleDao.py (기사 접근)
+│ │ ├─exampleDao.py (문제 접근)
+│ │ ├─quizDao.py (퀴즈 접근)
+│ │ ├─recyclingDao.py (재활용 접근)
+│ │ ├─resultDao.py (결과 접근)
+│ │ └─userDao.py (유저 접근)
+│ └─models (모델생성)
+│   ├─article.py (기사 모델)
+│   ├─example.py (문제 모델)
+│   ├─quiz.py (퀴즈 모델)
+│   ├─recycling.py (재활용 모델)
+│   ├─result.py (결과 모델)
+│   └─user.py (유저 모델)
+├──service (view / 뷰)
+│ ├─analysisService.py (분석 로직)
+│ ├─mainService.py (메인 로직)
+│ ├─quizService.py (퀴즈 로직)
+│ ├─rankService.py (점수랭크 로직)
+│ ├─resultService.py (결과 로직)
+│ ├─userRankService.py (유저랭크 로직)
+│ └─userService.py (유저 로직)
+├──app.py (실행)
+├──config.py (비밀키)
+└──db_connect.py (데이터베이스)
+
 </code>
 </pre>
