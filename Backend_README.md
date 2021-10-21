@@ -51,6 +51,5 @@
 ├──app.py (실행)
 ├──config.py (비밀키)
 └──db_connect.py (데이터베이스)
-
 </code>
 </pre>
