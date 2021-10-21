@@ -1,6 +1,4 @@
-## Team SSraeng Backend Repository
-
-### Member
+## Backend Contributors
 
 <table>
 <td> <img> </td>
