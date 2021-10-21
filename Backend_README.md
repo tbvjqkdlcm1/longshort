@@ -1,3 +1,18 @@
+## Team SSraeng Backend Repository
+
+### Member
+
+<table>
+<td> <img> </td>
+<td> <img> </td>
+<td> <img> </td>
+
+<tr>
+<td> <strong>문지윤</strong> </td>
+<td> <strong>백승욱</strong> </td>
+<td> <strong>정희재</strong> </td>
+</table>
+
 ## Structure
 
 ![B33E99EA-9B3B-42AC-879C-AC398676101C_4_5005_c](https://user-images.githubusercontent.com/52040901/138164998-c371bd8e-c526-41fd-8f8e-65fb13f8f2ee.jpeg)
