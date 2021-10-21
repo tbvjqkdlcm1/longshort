@@ -6,7 +6,7 @@
 <td> <strong>정희재</strong> </td>
 
 <tr>
-<td> I'm on the next level </td>
+<td> I'm on the next level~ </td>
 <td> "슉.슈슉.슈슈..슉 슉..슈슈슉 " </td>
 <td> 빠세이 호! </td>
 </table>
