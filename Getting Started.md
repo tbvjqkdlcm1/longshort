@@ -18,6 +18,6 @@ $ cd ~/frontend && yarn start or npm start
 <pre>
 <code>
 # Development
-$ cd ~/server/app.py && python app.py
+$ cd ~/backend/server/app.py && python app.py
 </code>
 </pre>
