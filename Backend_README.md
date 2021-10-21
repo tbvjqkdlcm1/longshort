@@ -7,8 +7,8 @@
 🔥 server🔥
 ├──apis
 │ └─Controller (컨트롤러)
-│ │ ├─analysisController.py (분석 컨트롤러 블루프린트)
-│ │ └─dataAccessController.py (데이터접근 컨트롤러 블루프린트)
+│ │ ├─analysisController.py (분석 컨트롤러)
+│ │ └─dataAccessController.py (데이터접근 컨트롤러)
 │ └─dto (data transfer object / 데이터 교환)
 │   ├─requestDto.py (요청 전달)
 │   └─responseDto.py (응답 전달)
