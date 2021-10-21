@@ -9,7 +9,7 @@
 <pre>
 <code>
 # Development
-$ cd SSrang/frontend && yarn start or npm start
+$ cd ~/frontend && yarn start or npm start
 </code>
 </pre>
 
@@ -18,6 +18,6 @@ $ cd SSrang/frontend && yarn start or npm start
 <pre>
 <code>
 # Development
-$ cd SSrang/server/app.py && flask run app.py
+$ cd ~/server/app.py && python app.py
 </code>
 </pre>
